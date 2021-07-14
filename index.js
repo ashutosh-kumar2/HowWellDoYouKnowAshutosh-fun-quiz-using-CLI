@@ -67,8 +67,8 @@ var highScores = [
     score: 7
   },
   {
-    name: "Tanmay",
-    score: 5
+    name: "Piyush",
+    score: 6
   }
 ]
 
